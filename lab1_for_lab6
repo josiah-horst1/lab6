@@ -1,4 +1,4 @@
-# no need to use print and input in same line, you can put text inside the input
+# no need to use print and input in same line, you can put text inside the input #Vandana Sreekumar and Josiah Horst was here
 name = input('Hello. What is your name?')
 age = input(f'It\'s nice to meet you, {name}. How old are you?')
 print(f'I see that you are still quite young at only {age}.')
